@@ -1,5 +1,8 @@
 ### Welcome to my profile 👋
 
+- 📖 Currently studying at HTL Steyr 
+- 💀
+
 
 </br>
 
