@@ -6,7 +6,7 @@
 
 </br>
 
-![Snake animation](https://github.com/Rhodinic/Rhodinic/blob/output/github-contribution-grid-snake.svg&count_private=true)
+![Snake animation](https://github.com/Rhodinic/Rhodinic/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 
