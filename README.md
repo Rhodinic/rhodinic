@@ -17,9 +17,6 @@
   <a href="https://github.com/Rhodinic">
     <img align="center" alt="Rhodinic" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhodinic&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&show_icons=true" />
   </a>
-  <a href="https://github.com/Rhodinic">
-    <img align="center" alt="Rhodinic" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhodinic&layout=compact&langs_count=16&theme=dracula" />
-  </a>
 </div>
 
 <div align=center>
@@ -30,4 +27,9 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Rhodininc/count.svg" />  
 </p>
+
+
+<div align="center">
+    <img alt="Hola" height="70px" width="70px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif"></img><br>
+</div>
 
