@@ -17,7 +17,7 @@
   <a href="https://github.com/Rhodinic">
     <img align="center" alt="Rhodinic" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhodinic&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true&include_all_commits=true&show_icons=true" />
   </a>
-  <a href="https://github.com/Rhodinic">
+  <a href="https://github.com/rhodinic">
     <img align="center" alt="Rhodinic" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhodinic&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
